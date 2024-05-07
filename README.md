@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 <!--
 ![octocat-1715095703013](https://github.com/khchanel/khchanel/assets/732904/9443479f-3538-4c36-a8a0-a1476c5b0f4e)
 -->
+
+
+![Snake animation](https://github.com/khchanel/khchanel/blob/output/github-contribution-grid-snake.svg)
